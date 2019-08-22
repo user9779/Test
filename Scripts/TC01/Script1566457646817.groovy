@@ -17,5 +17,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.oracle.com/index.html')
 
+WebUI.delay(5)
+
 WebUI.closeBrowser()
 
